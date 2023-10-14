@@ -1,4 +1,4 @@
-# Equalizing Headphones to sound better
+# Equalizing Headphones to my liking
 
 Any time I get a new pair of headphones I use [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) to make them sound better. All headphones have a difference in their [sound signature](https://www.audio-technica.com/en-au/support/a-simple-guide-to-sound-signatures) with some focusing on bass, others on treble, and some with a balance across the board. Out of the box my current headphones had a huge emphasis on treble, on games it was ok but when I used them for music it was almost unbearable. I prefer to have a balanced sound, so I used Equalizer APO to adjust the sound to my liking.
 

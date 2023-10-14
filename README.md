@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Equalizing Headphones to sound better](j01/)
+[Equalizing Headphones to my liking](j01/)
