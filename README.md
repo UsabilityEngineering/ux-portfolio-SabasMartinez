@@ -6,8 +6,9 @@ This is a repository used to publish blog entries and discussions of usability a
 
 ## UX Team Project
 
-Coming soon.
+VidDiffusion
 
-## UX Journal
+## UX Journals
+[Equalizing Headphones to my liking](j01/README.md)
 
-[Equalizing Headphones to my liking](j01/)
+[Revised: Equalizing Headphones to my liking](j02/README.md)
